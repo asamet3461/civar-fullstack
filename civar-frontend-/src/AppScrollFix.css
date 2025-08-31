@@ -1,0 +1,16 @@
+body, html {
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  height: 100% !important;
+}
+
+.civar-feed, .civar-main-container {
+  overflow-y: auto !important;
+}
+
+/* Fix for mobile */
+@media (max-width: 900px) {
+  .civar-feed {
+    padding-bottom: 80px !important; /* Extra padding for mobile to ensure content is visible */
+  }
+}

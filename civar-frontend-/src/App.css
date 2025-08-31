@@ -1,0 +1,4 @@
+/* Global overrides */
+body,html,#root { margin:0; padding:0; }
+* { box-sizing: border-box; }
+::selection { background:#0b6c3c; color:#fff; }

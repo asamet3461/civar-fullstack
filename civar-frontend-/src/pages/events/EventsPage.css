@@ -1,0 +1,149 @@
+/* Modern, responsive layout for Events page */
+
+.events-page {
+  padding: 24px clamp(16px, 3vw, 48px);
+  background: #f5f9f7;
+  min-height: 100vh;
+}
+
+.events-header {
+  max-width: 1100px;
+  margin: 0 auto 16px auto;
+}
+
+.events-header h1 {
+  margin: 0 0 8px 0;
+  font-size: clamp(1.2rem, 1.2rem + 0.6vw, 1.8rem);
+  color: #0b6c3c;
+}
+
+.events-header .subtitle {
+  color: #6b8f7a;
+  font-size: 0.98rem;
+}
+
+.events-grid {
+  display: grid;
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 1024px) {
+  .events-grid {
+    grid-template-columns: 360px 1fr;
+  }
+}
+
+/* Cards */
+.events-page .card {
+  background: #fff;
+  border: 1.5px solid #eaf6ef;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(24, 129, 58, 0.07);
+  padding: 20px 22px;
+}
+
+/* Create form */
+.events-form h3 {
+  margin: 0 0 12px 0;
+  color: #18813a;
+}
+
+.events-form .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+@media (max-width: 700px) {
+  .events-form .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.events-form input[type="datetime-local"] {
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.events-form input,
+.events-form textarea,
+.events-form select {
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #eaf6ef;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 0.98rem;
+  outline: none;
+  background: #fff;
+}
+
+.events-form textarea {
+  resize: vertical;
+}
+
+.events-form .actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.events-page .primary {
+  background: #18813a;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.events-page .primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* List */
+.events-list {
+  display: grid;
+  gap: 14px;
+}
+
+.event-item {
+  transition: transform 120ms ease, box-shadow 120ms ease;
+  cursor: pointer;
+}
+
+.event-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(24,129,58,0.12);
+}
+
+.event-item .title {
+  margin: 0 0 4px 0;
+  color: #144f31;
+}
+
+.event-item .meta {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  color: #6b8f7a;
+  font-size: 0.92rem;
+}
+
+.event-item .neighborhood {
+  color: #18813a;
+  font-weight: 600;
+}
+
+.event-item .desc {
+  margin-top: 6px;
+  color: #222;
+  white-space: pre-line;
+}

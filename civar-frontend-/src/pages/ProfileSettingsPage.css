@@ -1,0 +1,78 @@
+/* Ayarlar sayfası modern ve profil ile uyumlu */
+.settings-container {
+  max-width: 100px;
+  min-width: 800px;
+  margin: 32px auto 0 auto;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 32px 64px 24px 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.settings-title {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #179c5a;
+  margin-bottom: 8px;
+  text-align: center;
+}
+.settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.settings-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f7f8fa;
+  border: none;
+  border-radius: 10px;
+  padding: 18px 20px;
+  font-size: 1.08rem;
+  color: #222;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  gap: 16px;
+}
+.settings-item:hover {
+  background: #e6e8eb;
+  color: #179c5a;
+}
+.settings-icon {
+  color: #179c5a;
+  font-size: 1.25em;
+  margin-right: 12px;
+}
+.settings-arrow {
+  color: #b0b8c1;
+  font-size: 1.2em;
+  margin-left: 12px;
+}
+.settings-links {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 18px;
+}
+.settings-link {
+  color: #2d3748;
+  text-decoration: none;
+  font-size: 1.01rem;
+  padding: 6px 0;
+  border: none;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+.settings-link:hover {
+  color: #179c5a;
+}
+.logout {
+  color: #e23c3c;
+  font-weight: 600;
+}

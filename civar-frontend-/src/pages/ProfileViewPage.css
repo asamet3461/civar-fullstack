@@ -1,0 +1,305 @@
+/* Genel grid ve kart düzeni */
+.profile-container {
+	display: flex;
+	min-height: 100vh;
+	background: #f7f8fa;
+	justify-content: center;
+	align-items: flex-start;
+	padding: 20px;
+}
+
+.profile-content-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 800px;
+	width: 100%;
+}
+
+.sidebar-btn {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	background: #f7f8fa;
+	color: #222;
+	border: none;
+	border-radius: 8px;
+	padding: 12px 16px;
+	font-size: 1.08rem;
+	font-weight: 500;
+	margin-bottom: 10px;
+	cursor: pointer;
+	transition: background 0.18s, color 0.18s;
+}
+.sidebar-btn svg {
+	color: #179c5a;
+	font-size: 1.2em;
+}
+.sidebar-btn:hover {
+	background: #e6e8eb;
+	color: #179c5a;
+}
+.sidebar-btn:hover svg {
+	color: #0b6c3c;
+}
+
+.post-btn {
+	margin: 0 32px 24px 32px;
+	padding: 12px;
+	background: #219653;
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	font-size: 1rem;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	justify-content: center;
+}
+
+.sidebar-bottom {
+	margin-top: auto;
+	padding: 24px 32px;
+	color: #888;
+	font-size: 0.95rem;
+}
+
+/* Sidebar ikonları üst bardakiyle aynı stil */
+.sidebar-nav ul li {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	font-size: 1.1rem;
+	color: #222;
+	padding: 10px 0 10px 8px;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: background 0.15s, color 0.15s;
+}
+.sidebar-nav ul li svg {
+	background: #f7f8fa;
+	border-radius: 50%;
+	padding: 8px;
+	color: #b0b8c1;
+	font-size: 1.3em;
+	transition: background 0.2s, color 0.2s;
+}
+.sidebar-nav ul li:hover {
+	background: #f7f8fa;
+	color: #179c5a;
+}
+.sidebar-nav ul li:hover svg {
+	background: #e6e8eb;
+	color: #179c5a;
+}
+.profile-header {
+	width: 700px;
+	background: #e3f7e7;
+	border-radius: 20px;
+	margin-bottom: 32px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	padding: 0;
+	min-height: 180px;
+}
+.profile-bg {
+	position: absolute;
+	top: 0; left: 0; right: 0;
+	height: 100%;
+	background: #b7e4c7;
+	border-radius: 20px;
+	z-index: 0;
+}
+.profile-avatar {
+	z-index: 2;
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 2px 8px #0001;
+	margin-left: -55px;
+	border: 6px solid #fff;
+}
+.avatar-circle {
+	font-size: 3rem;
+	color: #219653;
+	font-weight: bold;
+}
+.profile-info {
+	z-index: 2;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-left: 40px;
+	margin-top: 24px;
+}
+.profile-info h2 {
+	margin: 0 0 8px 0;
+	font-size: 2.2rem;
+	font-weight: 700;
+}
+.profile-location {
+	color: #219653;
+	font-size: 1.1rem;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+.profile-actions {
+	display: flex;
+	gap: 10px;
+	margin-top: 8px;
+}
+.edit-btn, .business-btn {
+	background: #f6fffa;
+	border: 1px solid #219653;
+	color: #219653;
+	border-radius: 8px;
+	padding: 8px 18px;
+	font-size: 1rem;
+	cursor: pointer;
+	transition: background 0.2s, color 0.2s;
+	font-weight: 500;
+}
+.edit-btn:hover, .business-btn:hover {
+	background: #219653;
+	color: #fff;
+}
+.profile-dashboard {
+	width: 700px;
+	background: #fff;
+	border-radius: 16px;
+	padding: 28px 32px 24px 32px;
+	margin-bottom: 32px;
+	box-shadow: 0 2px 8px #0001;
+}
+.dashboard-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+.dashboard-header h3 {
+	margin: 0;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+.dashboard-private {
+	color: #888;
+	font-size: 0.98rem;
+}
+.profile-progress {
+	margin-bottom: 18px;
+	font-size: 1rem;
+}
+.progress-bar {
+	width: 100%;
+	height: 8px;
+	background: #e0e0e0;
+	border-radius: 4px;
+	margin-top: 6px;
+}
+.progress {
+	height: 100%;
+	background: #219653;
+	border-radius: 4px;
+}
+.profile-actions-list {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+}
+.profile-actions-list button {
+	background: #f0f4f8;
+	border: none;
+	border-radius: 6px;
+	padding: 7px 14px;
+	font-size: 0.98rem;
+	color: #219653;
+	cursor: pointer;
+	transition: background 0.2s;
+}
+.profile-actions-list button:hover {
+	background: #d1e7dd;
+}
+.profile-chats {
+	width: 700px;
+	background: #fff;
+	border-radius: 16px;
+	padding: 24px 32px;
+	box-shadow: 0 2px 8px #0001;
+}
+.profile-chats h4 {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin: 0 0 12px 0;
+	font-size: 1.1rem;
+}
+.chat-placeholder {
+	color: #888;
+	font-size: 1rem;
+	padding: 16px 0;
+}
+.logo-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 32px 0 40px 0;
+}
+.logo-img {
+  height: 175px;
+  width: 175px;
+  display: block;
+  margin: 0 auto;
+}
+.logo-text {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #179c5a;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* Bio Panel Styles */
+.profile-bio {
+  width: 700px;
+  background: #fff;
+  border-radius: 16px;
+  padding: 28px 32px 24px 32px;
+  margin-bottom: 32px;
+  box-shadow: 0 2px 8px #0001;
+}
+
+.bio-header {
+  margin-bottom: 16px;
+}
+
+.bio-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #219653;
+}
+
+.bio-content {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.6;
+  min-height: 40px;
+}
+
+.bio-empty {
+  color: #aaa;
+  font-style: italic;
+}

@@ -1,0 +1,466 @@
+/* Register formu da login ile aynı modern stili kullanır, ek CSS gerekmez. */
+/* Türkçe sade login tasarımı için özel stiller */
+.login-root-tr {
+  min-height: 100vh;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.login-topbar-tr {
+  width: 100vw;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 32px 0 18px 0;
+}
+.login-logo-tr {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-register-link-tr {
+  position: absolute;
+  right: 48px;
+  top: 32px;
+  color: #1DB954;
+  font-weight: 600;
+  font-size: 1.08rem;
+  text-decoration: none;
+  border-radius: 999px;
+  padding: .5rem 1.2rem;
+  transition: background .2s;
+}
+.login-register-link-tr:hover {
+  background: #eafaf1;
+}
+.login-form-outer-tr {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-form-tr {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.07);
+  padding: 18px 16px 12px 16px;
+  min-width: 260px;
+  max-width: 320px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.7rem;
+}
+.login-form-tr h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #222;
+  margin: 0 0 18px 0;
+  text-align: left;
+}
+.input-group-tr {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.login-form-tr input {
+  width: 100%;
+  border: 1.2px solid #dce3e8;
+  border-radius: 8px;
+  padding: 0.65rem 0.8rem;
+  font-size: 0.97rem;
+  outline: none;
+  background: #fff;
+  color: #222;
+  box-shadow: none;
+  transition: border-color .2s;
+}
+.login-form-tr input:focus {
+  border-color: #1DB954;
+}
+.login-form-tr input.error {
+  border-color: #d32f2f !important;
+  background: #fff6f6;
+}
+.input-error-tr {
+  color: #d32f2f;
+  font-size: .93rem;
+  margin: 2px 0 0 4px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 500;
+}
+.forgot-row-tr {
+  margin-top: -8px;
+  margin-bottom: 8px;
+  text-align: left;
+}
+.forgot-link-tr {
+  color: #222;
+  font-size: .97rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.login-btn-tr {
+  width: 100%;
+  padding: 0.7rem 0;
+  font-size: 1.05rem;
+  border-radius: 18px;
+  background: #1DB954;
+  color: #fff;
+  font-weight: 700;
+  margin-top: 6px;
+  margin-bottom: 2px;
+  box-shadow: 0 2px 8px 0 rgba(29,185,84,0.08);
+  border: none;
+  transition: background 0.2s;
+  cursor: pointer;
+}
+.login-btn-tr:hover {
+  background: #169c43;
+}
+.eye-icon-tr {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #222;
+  font-size: 1.15rem;
+  opacity: 0.7;
+}
+/* Nextdoor tarzı login paneli için ek stil */
+.login-nextdoor-style {
+  max-width: 420px !important;
+  min-width: 340px;
+  min-height: 320px;
+  border-radius: 22px !important;
+  box-shadow: 0 8px 32px -6px rgba(0,0,0,.10), 0 2px 6px rgba(0,0,0,.06) !important;
+  border: 1.5px solid #ececec !important;
+  padding: 32px 32px 24px 32px !important;
+  margin-top: 32px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+}
+/* LOGIN HEADER */
+.login-header-row {
+  width: 100vw;
+  max-width: 100%;
+  position: relative;
+  margin-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 0;
+}
+.login-header-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+.login-header-register-btn {
+  position: absolute;
+  top: 40px;
+  right: 48px;
+  background: #0b6c3c;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  border: none;
+  border-radius: 999px;
+  padding: .55rem 1.3rem;
+  text-decoration: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+  transition: background .2s;
+  margin-left: 12px;
+  z-index: 2;
+}
+.login-header-register-btn:hover {
+  background: #08522c;
+}
+.login-header-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.login-header-register-btn {
+  background: #0b6c3c;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  border: none;
+  border-radius: 999px;
+  padding: .55rem 1.3rem;
+  text-decoration: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+  transition: background .2s;
+  margin-left: 12px;
+}
+.login-header-register-btn:hover {
+  background: #08522c;
+}
+/* LOGIN PAGE MODERN TASARIM */
+.login-center-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: none;
+  border: none;
+  max-width: 320px;
+  margin: 24px auto 0 auto;
+  padding: 14px 10px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+.login-logo-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.login-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #222;
+  margin: 0 0 24px 0;
+  text-align: left;
+  width: 100%;
+}
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+.login-form .input-group {
+  width: 100%;
+}
+.login-form input {
+  width: 100%;
+  border: 1.2px solid #dce3e8;
+  border-radius: 8px;
+  padding: 0.65rem 0.8rem;
+  font-size: 0.98rem;
+  outline: none;
+  background: #fff;
+  color: #222;
+  box-shadow: none;
+  transition: border-color .2s;
+  filter: none;
+}
+.login-form input:focus {
+  border-color: #0b6c3c;
+}
+.login-form input.error {
+  border-color: #d32f2f !important;
+  background: #fff6f6;
+}
+.login-forgot {
+  color: #222;
+  font-size: .97rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.login-bottom-row {
+  margin-top: 18px;
+  text-align: center;
+  font-size: .98rem;
+  color: #555;
+}
+.login-bottom-row a {
+  color: #0b6c3c;
+  font-weight: 600;
+  margin-left: 4px;
+}
+.input-group { display: flex; flex-direction: column; gap: 2px; }
+.input-error {
+  color: #d32f2f;
+  font-size: .93rem;
+  margin: 2px 0 0 4px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 500;
+}
+.quick-form input.error {
+  border-color: #d32f2f !important;
+  background: #fff6f6;
+}
+.auth-cta .btn, .auth-cta .btn * {
+  text-decoration: none !important;
+}
+/* GENEL YAPI */
+.landing-wrapper { min-height:100vh; display:flex; flex-direction:column; background:#fff; }
+
+/* =====================
+   C I V A R  LANDING
+   ===================== */
+
+:root { --green:#0b6c3c; --green-dark:#08522c; --radius:18px; --ease: cubic-bezier(.4,.0,.2,1); }
+
+body, .civar-landing-root {
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  background: #fff;
+}
+
+.civar-landing-root { display:flex; flex-direction:column; min-height:100vh; background:#fff; }
+.max { width:100%; max-width:1180px; margin:0 auto; }
+
+/* HEADER */
+.civar-header { background:#fff; border-bottom:1px solid #ececec; }
+.header-inner { display:flex; align-items:center; gap:2.4rem; padding:14px 34px; }
+.brand { display:flex; align-items:center; gap:.5rem; font-weight:700; color:var(--green); font-size:1.32rem; }
+.brand-icon { font-size:1.5rem; }
+.main-nav { display:flex; gap:1.1rem; flex:1; }
+.nav-link { background:none; border:none; font:600 .9rem inherit; color:#333; cursor:pointer; padding:.45rem .6rem; border-radius:6px; }
+.nav-link:hover { background:#f2f4f4; }
+.auth-cta { display:flex; align-items:center; gap:.6rem; }
+.btn {
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 999px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .95rem;
+  transition: background .2s var(--ease), box-shadow .2s var(--ease);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+  border-bottom: none !important;
+}
+.btn.small { padding: .55rem 1.1rem; }
+.btn.ghost {
+  background: #f4f5f5;
+  color: #222;
+  border-bottom: none !important;
+}
+.btn.ghost:hover { background: #e9ebeb; }
+.btn.primary {
+  background: var(--green);
+  color: #fff;
+  border-bottom: none !important;
+}
+.btn.primary:hover { background: var(--green-dark); }
+.btn.full { width: 100%; padding: .5rem .7rem; }
+
+/* HERO */
+.hero-section { flex:1; padding:40px 34px 70px; display:flex; }
+.hero-wrap { display:flex; flex:1; }
+.hero-media { position:relative; width:100%; border-radius:18px; overflow:hidden; min-height:540px; }
+.hero-media > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+
+/* ensure any icons/images inside the signup card are not absolutely positioned by the hero rule */
+.signup-card img {
+  position: static;
+  width: 24px;
+  height: 24px;
+}
+.hero-media:after { content:""; position:absolute; inset:0; background:linear-gradient(180deg,rgba(0,0,0,0.05),rgba(0,0,0,0.25)); pointer-events:none; }
+
+/* SIGNUP CARD */
+.signup-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #fff;
+  width: 360px;
+  max-width: 90%;
+  padding: 34px 34px 26px;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px -6px rgba(0,0,0,.10), 0 2px 6px rgba(0,0,0,.06);
+  display: flex;
+  flex-direction: column;
+  gap: .85rem;
+  border: 1.5px solid #ececec;
+}
+.signup-card h1 { font-size:1.28rem; text-align:center; margin:0 0 .6rem; font-weight:700; color:#222; letter-spacing:.2px; }
+.oauth-btn { border:none; border-radius:40px; padding:.75rem .9rem; font-weight:600; font-size:.95rem; display:flex; align-items:center; gap:.55rem; justify-content:center; cursor:pointer; transition:background .2s; }
+.oauth-btn .icon { font-size:1.1rem; }
+.oauth-btn.oauth-google { background:#fff; border:1px solid #dde1e4; }
+.oauth-btn.oauth-google:hover { background:#f6f8f9; }
+.oauth-btn.oauth-apple { background:#111; color:#fff; }
+.oauth-btn.oauth-apple:hover { background:#333; }
+.divider { position:relative; text-align:center; font-size:.7rem; text-transform:uppercase; font-weight:600; color:#777; letter-spacing:.6px; margin:.2rem 0 .3rem; }
+.divider:before, .divider:after { content:""; position:absolute; top:50%; width:42%; height:1px; background:#e1e5e8; }
+.divider:before { left:0; }
+.divider:after { right:0; }
+.quick-form { display:flex; flex-direction:column; gap:.65rem; }
+.quick-form input {
+  border: 1.5px solid #222;
+  border-radius: 12px;
+  padding: .85rem 1.1rem;
+  font-size: 1.05rem;
+  outline: none;
+  background: #fff;
+  color: #222;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  transition: border-color .2s, box-shadow .2s;
+  filter: brightness(1.18) saturate(1.18);
+}
+.quick-form input:focus {
+  border-color: #0b6c3c;
+  box-shadow: 0 0 0 3px rgba(11,108,60,.13);
+}
+.quick-form input:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(11,108,60,.13);
+}
+.btn.continue {
+  background: var(--green);
+  color: #fff;
+  font-size: 1.08rem;
+  font-weight: 600;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(11,108,60,0.10);
+  border: none;
+}
+.btn.continue:hover {
+  background: var(--green-dark);
+}
+.btn.continue {
+  background: var(--green);
+  color: #fff;
+  font-size: 1.04rem;
+  font-weight: 700;
+  border-radius: 18px;
+  box-shadow: 0 2px 8px 0 rgba(11,108,60,0.10);
+  border: none;
+  padding: 0.65rem 0;
+  width: 100%;
+  letter-spacing: 0.01em;
+  transition: background .2s, box-shadow .2s;
+}
+.btn.continue:hover {
+  background: var(--green-dark);
+  box-shadow: 0 6px 24px 0 rgba(11,108,60,0.18);
+}
+.legal { font-size:.66rem; color:#666; line-height:1.2; margin:.15rem 0 0; text-align:center; }
+.legal a { color:var(--green); }
+.already { text-align:center; font-size:.8rem; color:#555; margin:.25rem 0 0; }
+.already a { color:var(--green); font-weight:600; }
+
+/* Scroll için ek boşluk mobilde */
+@media (max-width:720px){
+  .hero-section { padding:24px 18px 55px; }
+  .header-inner { padding:12px 18px; gap:1.2rem; }
+  .main-nav { display:none; }
+  .signup-card { position:static; transform:none; margin:0 auto; width:100%; max-width:400px; }
+  .hero-media { min-height:420px; display:flex; align-items:center; justify-content:center; }
+  .hero-media img { position:absolute; }
+}
+
+/* Erişilebilirlik gizli label (eski form için kullanılıyor olabilir) */
+.sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }

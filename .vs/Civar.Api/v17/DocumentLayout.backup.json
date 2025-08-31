@@ -1,0 +1,1070 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\dtos\\posts\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\dtos\\posts\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\dtos\\neighborhoods\\updateneighborhooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\dtos\\neighborhoods\\updateneighborhooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\dtos\\neighborhoods\\createneighborhooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\dtos\\neighborhoods\\createneighborhooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\dtos\\messages\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\dtos\\messages\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\events\\postmesagge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\events\\postmesagge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\events\\eventmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\events\\eventmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\users\\updatepassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\users\\updatepassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\users\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\users\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\users\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\users\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\messages\\sendprivatemessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\messages\\sendprivatemessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\messages\\sendneighborhoodmessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\messages\\sendneighborhoodmessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\messages\\sendmessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\messages\\sendmessagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\messages\\messagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\messages\\messagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\messages\\markmessageasreaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\messages\\markmessageasreaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\events\\updateeventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\events\\updateeventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\events\\createeventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\events\\createeventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\validators\\events\\eventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\validators\\events\\eventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\neighborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\neighborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\eventrsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\eventrsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.domain\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F76C90B-54B7-4180-971B-12E2ECB05762}|Civar.Domain\\Civar.Domain.csproj|solutionrelative:civar.domain\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\identity\\argon2passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\identity\\argon2passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\emailnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\emailnotificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\emailnotificationpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\emailnotificationpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\eventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\eventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\postconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\postconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\postpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\postpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\rabbitmq\\rabbitmqconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\rabbitmq\\rabbitmqconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\redis\\redisconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\redis\\redisconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\redis\\redismessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\redis\\redismessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\redis\\redismessagesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\redis\\redismessagesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\services\\temporarycodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\services\\temporarycodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60843038-6F79-43CD-A7AE-5E9C3F72F802}|Civar.Infrastructure\\Civar.Infrastructure.csproj|solutionrelative:civar.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838960FD-8A63-4668-8274-7F912C8028F1}|Civar.Application\\Civar.Application.csproj|solutionrelative:civar.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\neighborhoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\neighborhoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|c:\\users\\asus\\desktop\\civar.api\\civar.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F5EC9-1991-498C-8AC1-7A284A9557A5}|Civar.Api\\Civar.Api.csproj|solutionrelative:civar.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Posts\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\DTOs\\Posts\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Posts\\CreatePostDto.cs",
+              "RelativeToolTip": "Civar.Application\\DTOs\\Posts\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:24:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Posts\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\DTOs\\Posts\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Posts\\CreateCommentDto.cs",
+              "RelativeToolTip": "Civar.Application\\DTOs\\Posts\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:24:43.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateNeighborhoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Neighborhoods\\UpdateNeighborhoodDto.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\DTOs\\Neighborhoods\\UpdateNeighborhoodDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Neighborhoods\\UpdateNeighborhoodDto.cs",
+              "RelativeToolTip": "Civar.Application\\DTOs\\Neighborhoods\\UpdateNeighborhoodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:24:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNeighborhoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Neighborhoods\\CreateNeighborhoodDto.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\DTOs\\Neighborhoods\\CreateNeighborhoodDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Neighborhoods\\CreateNeighborhoodDto.cs",
+              "RelativeToolTip": "Civar.Application\\DTOs\\Neighborhoods\\CreateNeighborhoodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:24:09.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Messages\\MessageDto.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\DTOs\\Messages\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\DTOs\\Messages\\MessageDto.cs",
+              "RelativeToolTip": "Civar.Application\\DTOs\\Messages\\MessageDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:23:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostMesagge.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Events\\PostMesagge.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Events\\PostMesagge.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Events\\PostMesagge.cs",
+              "RelativeToolTip": "Civar.Application\\Events\\PostMesagge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:23:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Events\\EventMessage.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Events\\EventMessage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Events\\EventMessage.cs",
+              "RelativeToolTip": "Civar.Application\\Events\\EventMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:23:22.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Civar.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:22:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePasswordDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\UpdatePasswordDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Users\\UpdatePasswordDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\UpdatePasswordDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Users\\UpdatePasswordDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:22:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Users\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Users\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:51.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\CreateUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Users\\CreateUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Users\\CreateUserDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Users\\CreateUserDtoValidator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SendPrivateMessageDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendPrivateMessageDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Messages\\SendPrivateMessageDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendPrivateMessageDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Messages\\SendPrivateMessageDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:18.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendNeighborhoodMessageDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendNeighborhoodMessageDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Messages\\SendNeighborhoodMessageDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendNeighborhoodMessageDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Messages\\SendNeighborhoodMessageDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SendMessageDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendMessageDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Messages\\SendMessageDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\SendMessageDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Messages\\SendMessageDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\MessageDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Messages\\MessageDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\MessageDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Messages\\MessageDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MarkMessageAsReadDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\MarkMessageAsReadDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Messages\\MarkMessageAsReadDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Messages\\MarkMessageAsReadDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Messages\\MarkMessageAsReadDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateEventDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\UpdateEventDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Events\\UpdateEventDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\UpdateEventDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Events\\UpdateEventDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:21:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\EventDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Events\\EventDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\EventDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Events\\EventDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:43.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateEventDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\CreateEventDtoValidator.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Validators\\Events\\CreateEventDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Validators\\Events\\CreateEventDtoValidator.cs",
+              "RelativeToolTip": "Civar.Application\\Validators\\Events\\CreateEventDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:42.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:26.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:21.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Neighborhood.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Neighborhood.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Neighborhood.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Neighborhood.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Neighborhood.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventRSVP.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\EventRSVP.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\EventRSVP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\EventRSVP.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\EventRSVP.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Civar.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Civar.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Civar.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Civar.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Interfaces\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IMessageRepository.cs",
+              "RelativeToolTip": "Civar.Domain\\Interfaces\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Civar.Domain\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Domain\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Civar.Domain\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Argon2PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Identity\\Argon2PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Identity\\Argon2PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Identity\\Argon2PasswordHasher.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Identity\\Argon2PasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmailNotificationConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EmailNotificationConsumer.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\EmailNotificationConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EmailNotificationConsumer.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\EmailNotificationConsumer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailNotificationPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EmailNotificationPublisher.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\EmailNotificationPublisher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EmailNotificationPublisher.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\EmailNotificationPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\EventPublisher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EventPublisher.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\EventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EventConsumer.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\EventConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\EventConsumer.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\EventConsumer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PostConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\PostConsumer.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\PostConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\PostConsumer.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\PostConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PostPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\PostPublisher.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\PostPublisher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\PostPublisher.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\PostPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RabbitMqConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\RabbitMqConnectionService.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\RabbitMQ\\RabbitMqConnectionService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\RabbitMQ\\RabbitMqConnectionService.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\RabbitMQ\\RabbitMqConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RedisConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisConnectionService.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Redis\\RedisConnectionService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisConnectionService.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Redis\\RedisConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RedisMessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisMessagePublisher.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Redis\\RedisMessagePublisher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisMessagePublisher.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Redis\\RedisMessagePublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RedisMessageSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisMessageSubscriber.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Redis\\RedisMessageSubscriber.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Redis\\RedisMessageSubscriber.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Redis\\RedisMessageSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:46.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Services\\UserActivityService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\UserActivityService.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Services\\UserActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TemporaryCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\TemporaryCodeService.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Services\\TemporaryCodeService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\TemporaryCodeService.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Services\\TemporaryCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "Civar.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "Civar.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:18:38.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\MessageService.cs",
+              "RelativeToolTip": "Civar.Application\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:01:34.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\EventService.cs",
+              "RelativeToolTip": "Civar.Application\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:01:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Civar.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Civar.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAgwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:01:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA8wHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:43.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NeighborhoodController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\NeighborhoodController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\NeighborhoodController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\NeighborhoodController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\NeighborhoodController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:38.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:34.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:14:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Civar.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Civar.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:04:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Civar.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Civar.Api\\Civar.Api\\appsettings.json",
+              "RelativeToolTip": "Civar.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T12:40:31.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
