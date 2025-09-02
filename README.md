@@ -2,7 +2,9 @@
 
 Civar, mahalle tabanlı bir haberleşme uygulamasıdır. Kullanıcılar kayıt olurken kendi mahallelerini seçer ve bulundukları mahalle grubuna dahil olurlar. Sistem, mahalle içindeki kullanıcılar arasında etkin haberleşmeyi, etkinlik oluşturmayı ve bildirim almayı sağlar.
 
+Bu proje Azure üzerinde ücretsiz katman (free tier) kullanılarak yayınlanmıştır.
 Canlı demo: [Civar Uygulaması](https://gray-beach-008621c03.1.azurestaticapps.net)
+Not: Bu demo, Azure ücretsiz hizmet süresi kapsamında 25 Eylül 2025 tarihine kadar aktif olacak, bu tarihten sonra erişim sağlanamayabilir.
 
 ## Özellikler
 
