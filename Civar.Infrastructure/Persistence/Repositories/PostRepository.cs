@@ -40,8 +40,8 @@ namespace Civar.Infrastructure.Persistence.Repositories
             return await _context.Posts
                 .Where(p => p.Type == type)
                 .Where(p => p.IsActive) 
-                .Include(p => p.User) // EKLENDİ
-                .Include(p => p.Neighborhood) // EKLENDİ
+                .Include(p => p.User) 
+                .Include(p => p.Neighborhood) 
                 .ToListAsync();
         }
 
@@ -52,7 +52,7 @@ namespace Civar.Infrastructure.Persistence.Repositories
                 .OrderByDescending(p => p.CreatedAt)
                 .Take(count)
                 .Include(p => p.User)
-                .Include(p => p.Neighborhood) // EKLENDİ
+                .Include(p => p.Neighborhood) 
                 .Include(p => p.Comments)
                 .ToListAsync();
         }
@@ -68,7 +68,7 @@ namespace Civar.Infrastructure.Persistence.Repositories
         {
             return await _context.Posts
                 .Include(p => p.Comments)
-                    .ThenInclude(c => c.User) // YORUMUN KULLANICISINI DAHİL ET
+                    .ThenInclude(c => c.User) 
                 .Include(p => p.User)
                 .Include(p => p.Neighborhood)
                 .FirstOrDefaultAsync(p => p.Id == id);
