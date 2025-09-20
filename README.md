@@ -6,7 +6,7 @@ Bu proje Azure üzerinde ücretsiz katman (free tier) kullanılarak yayınlanmı
 
 Canlı demo: [Civar Uygulaması](https://gray-beach-008621c03.1.azurestaticapps.net)
 
-Not: Bu demo, Azure ücretsiz hizmet süresi kapsamında 25 Eylül 2025 tarihine kadar aktif olacak, bu tarihten sonra erişim sağlanamayabilir.
+Not: Bu demo, Azure ücretsiz hizmet süresi kapsamında 20 Eylül 2025 tarihine kadar aktif olacak, bu tarihten sonra erişim sağlanamayacaktır.
 
 ## Özellikler
 
